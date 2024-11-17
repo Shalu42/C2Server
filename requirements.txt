@@ -1,0 +1,4 @@
+Flask==3.0.3
+requests==2.28.1
+sqlite3==3.36.0  # Note: Python has built-in support for sqlite3, so this may not be needed
+gunicorn==20.1.0  # For running the server in production
